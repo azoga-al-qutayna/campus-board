@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/target/
+**/data/
+.maven-cache/
+.temurin21/
+.temurin21.zip
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
